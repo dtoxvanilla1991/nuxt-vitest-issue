@@ -1,3 +1,7 @@
+# Nuxt-vitest ISSUE for which this repo was created to enable easy replication:
+
+https://github.com/danielroe/nuxt-vitest/issues/292
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
